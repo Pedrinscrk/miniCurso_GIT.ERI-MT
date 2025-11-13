@@ -1,2 +1,3 @@
 # miniCurso_GIT.ERI-MT
-Biblioteca 
+Biblioteca em python/Django
+
